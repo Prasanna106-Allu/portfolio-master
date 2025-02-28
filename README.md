@@ -1,4 +1,4 @@
-# Ahad Ali - Portfolio Website
+ Portfolio Website
 
 This portfolio website showcases information about me, my skills, qualifications, testimonials, contact details, and projects. It provides a comprehensive overview of my professional journey as a Full-Stack Developer, using clean UI and intuitive design to display my work.
 
@@ -69,11 +69,4 @@ This portfolio website showcases information about me, my skills, qualifications
 
 Once you've made these updates, your portfolio will be customized and ready to launch!
 
-**Live Demo**
 
-- Live Web: [ahadali.netlify.app](https://ahadali.netlify.app/)
-- GitHub Repo: [ahadalireach/portfolio](https://github.com/ahadalireach/portfolio) (Give it a Star!)
-
-**Contact**
-
-For any questions or feedback, please reach out to me at [ahadali.reach@gmail.com](mailto:ahadali.reach@gmail.com).
