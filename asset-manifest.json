@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prasanna106-Allu/portfolio/static/css/main.1c321bfb.css",
+    "main.js": "/Prasanna106-Allu/portfolio/static/js/main.bed6ed29.js",
+    "static/media/me.png": "/Prasanna106-Allu/portfolio/static/media/me.7a46bb05893a734d5f40.png",
+    "static/media/Resume.pdf": "/Prasanna106-Allu/portfolio/static/media/Resume.6dea6cd54db396a7c122.pdf",
+    "index.html": "/Prasanna106-Allu/portfolio/index.html",
+    "main.1c321bfb.css.map": "/Prasanna106-Allu/portfolio/static/css/main.1c321bfb.css.map",
+    "main.bed6ed29.js.map": "/Prasanna106-Allu/portfolio/static/js/main.bed6ed29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c321bfb.css",
+    "static/js/main.bed6ed29.js"
+  ]
+}
