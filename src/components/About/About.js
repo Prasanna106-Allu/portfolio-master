@@ -10,7 +10,7 @@ const About = () => {
       <h2 className="section__title">About Me</h2>
       <span className="section__subtitle">My Introduction</span>
       <div className="about__container container grid">
-        <img src={AboutImg} alt="About Me" className="about__img" />
+        <img src="/me.png" alt="About Me" className="about__img" />
         <div className="about__data">
           <Info />
           <p className="about__description">
@@ -19,7 +19,7 @@ const About = () => {
             <br />
             With over 2+ years of expertise in developing and maintaining software applications using VB.NET and C#. Proficient in both front-end and back-end technologies including HTML, CSS, JavaScript (including React.js), .NET Core. Good in Azure DevOps. Proven track record of collaborating effectively in Agile teams and delivering high-quality solutions. Passionate about staying updated with the latest technologies and continuously enhancing skills.
           </p>
-          <a download="" href={Resume} className="button button--flex">
+          <a download="" href="./Prasanna Resume.pdf" className="button button--flex">
             Download Resume
             <svg
               className="button__icon"
