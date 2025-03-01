@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Prasanna106-Allu/portfolio",
+  "homepage": "https://Prasanna106-Allu.github.io/portfolio-master",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -42,6 +42,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
   }
 }
